@@ -1,8 +1,7 @@
-\# Traffic Volume Prediction using Machine Learning
+Traffic Volume Prediction using Machine Learning
 
 
-
-\## 📌 Project Overview
+Project Overview
 
 
 
@@ -11,10 +10,7 @@ This project focuses on predicting traffic volume using Machine Learning techniq
 
 
 The project uses historical traffic data and applies data preprocessing, exploratory data analysis, visualization, and machine learning techniques to understand traffic patterns and predict traffic volume.
-
-
-
-\## 🎯 Objectives
+Objectives
 
 
 
@@ -32,7 +28,7 @@ The project uses historical traffic data and applies data preprocessing, explora
 
 
 
-\## 📂 Dataset
+Dataset
 
 
 
@@ -48,7 +44,7 @@ The dataset contains traffic-related information that can be used to analyze and
 
 
 
-\## 🛠️ Technologies Used
+Technologies Used
 
 
 
@@ -68,7 +64,7 @@ The dataset contains traffic-related information that can be used to analyze and
 
 
 
-\## 📓 Project Files
+Project Files
 
 
 
@@ -84,7 +80,7 @@ The dataset contains traffic-related information that can be used to analyze and
 
 
 
-\## 🔄 Project Workflow
+Project Workflow
 
 
 
@@ -110,7 +106,7 @@ The dataset contains traffic-related information that can be used to analyze and
 
 
 
-\## 📊 Results
+Results
 
 
 
@@ -122,11 +118,11 @@ The complete implementation, analysis, visualizations, and results are available
 
 
 
-\## 🚀 How to Run the Project
+How to Run the Project
 
 
 
-\### Step 1: Clone the repository
+Step 1: Clone the repository
 
 
 
